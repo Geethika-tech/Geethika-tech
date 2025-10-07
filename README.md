@@ -2,7 +2,7 @@
 
 ## 👋 Hello there! I'm Geethika Pidikiti
 
-I'm a passionate Full Stack Developer with 3+ years of experience building modern, scalable web applications. I specialize in **React.js**, **Next.js**, **TypeScript**, **Spring Boot**, and **Node.js**, and have hands-on experience deploying cloud-native apps on **AWS**.
+I'm a passionate Full Stack Developer with 4 years of experience building modern, scalable web applications. I specialize in **React.js**, **Next.js**, **TypeScript**, **Spring Boot**, and **Node.js**, and have hands-on experience deploying cloud-native apps on **AWS**.
 
 🔍 I love solving real-world problems with clean, maintainable code and collaborating closely with cross-functional teams to deliver high-quality products.
 
@@ -10,6 +10,7 @@ I'm a passionate Full Stack Developer with 3+ years of experience building moder
 - Interactive dashboards using React and Material UI
 - Scalable REST APIs using Spring Boot and Node.js
 - Data fetching and synchronization from public APIs
+- Real-time data handling and synchronization using Firebase Cloud Functions and Firestore (NoSQL) 
 
 🌱 Currently exploring AI and cloud architecture  
 📬 Let’s connect and build something awesome!
@@ -25,19 +26,19 @@ I'm a passionate Full Stack Developer with 3+ years of experience building moder
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+Firestore: https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+
+
 
 ### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Google Cloud: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
