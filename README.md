@@ -2,7 +2,7 @@
 
 ## 👋 Hello there! I'm Geethika Pidikiti
 
-I'm a passionate Full Stack Developer with 4 years of experience building modern, scalable web applications. I specialize in **React.js**, **Next.js**, **TypeScript**, **Spring Boot**, and **Node.js**, and have hands-on experience deploying cloud-native apps on **AWS**.
+I'm a passionate Full Stack Developer with 4 years of experience building modern, scalable web applications. I specialize in **React.js**, **Next.js**, **TypeScript**, **Python**, and **Node.js**, and have hands-on experience deploying cloud-native apps on **AWS**.
 
 🔍 I love solving real-world problems with clean, maintainable code and collaborating closely with cross-functional teams to deliver high-quality products.
 
