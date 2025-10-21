@@ -6,15 +6,6 @@ I'm a passionate Full Stack Developer with 4 years of experience building modern
 
 🔍 I love solving real-world problems with clean, maintainable code and collaborating closely with cross-functional teams to deliver high-quality products.
 
-🛠️ In my previous roles, I've worked on:
-- Interactive dashboards using React and Material UI
-- Scalable REST APIs using Spring Boot and Node.js
-- Data fetching and synchronization from public APIs
-- Real-time data handling and synchronization using Firebase Cloud Functions and Firestore (NoSQL) 
-
-🌱 Currently exploring AI and cloud architecture  
-📬 Let’s connect and build something awesome!
-
 
 ## 💻 Tech Stack
 
